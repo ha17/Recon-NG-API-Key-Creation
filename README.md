@@ -1,6 +1,10 @@
+# Keys for RECON-NG as of 4.9.2:
+
+Repo: https://bitbucket.org/LaNMaSteR53/recon-ng/
+
 One of the biggest annoyances of using Recon-ng is getting everything set up to use it.  So here I'll outline the different API keys it can use and where to get them yourself.  Some require you to pay money, which will be mentioned below.  I suggest as you go along, you save all the API keys to a file so you can use them later.
 
-API Keys as of 4.9.2:
+API Keys 
 
    1. **bing_api** _(optional $$$)_ - Sign up [here](http://datamarket.azure.com/dataset/bing/search) (I chose the free plan), agree to all the terms until you get to "Thank You", then go [here](https://datamarket.azure.com/account/keys) to view the key. (free account: 5000 transactions per month)
 
